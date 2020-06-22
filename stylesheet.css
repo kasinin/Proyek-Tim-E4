@@ -371,10 +371,10 @@ footer p {
 }
 
 footer {
-  text-align: center;
   background-color: white;
 }
  footer .footer-top{
+   text-align: center;
    background: white;
    padding: 60px 0 30px 0;
  }
@@ -390,6 +390,7 @@ footer li{
   font-family: "Monstserrat", sans-serif;
 
 }
+
  footer .copyright{
    text-align: center;
    color: #b3aeb5;
