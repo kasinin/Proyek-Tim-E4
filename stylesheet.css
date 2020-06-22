@@ -29,6 +29,12 @@ a {
   margin: 0 auto;
 }
 
+.header-right {
+  font-size: 20px;
+  align-content: center;
+  font-family: "Monstserrat", sans-serif;
+}
+
 .top-wrapper {
   padding: 300px 0 100px 0;
   background-image: url(https://raw.githubusercontent.com/kasinin/ruang-murid/master/ruangmuridok.jpg);
@@ -372,9 +378,9 @@ footer p {
 
 footer {
   background-color: white;
+  text-align: center;
 }
  footer .footer-top{
-   text-align: center;
    background: white;
    padding: 60px 0 30px 0;
  }
@@ -388,7 +394,6 @@ footer li{
   font-size: 15px;
   color: #b3aeb5;
   font-family: "Monstserrat", sans-serif;
-
 }
 
  footer .copyright{
